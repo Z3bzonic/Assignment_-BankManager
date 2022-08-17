@@ -1,0 +1,15 @@
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.csproj.AssemblyReference.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.AssemblyInfoInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.AssemblyInfo.cs
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\bin\Debug\net6.0\Assignment_ BankManager.exe
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\bin\Debug\net6.0\Assignment_ BankManager.deps.json
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\bin\Debug\net6.0\Assignment_ BankManager.runtimeconfig.json
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\bin\Debug\net6.0\Assignment_ BankManager.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\bin\Debug\net6.0\Assignment_ BankManager.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\refint\Assignment_ BankManager.dll
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.pdb
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\Assignment_ BankManager.genruntimeconfig.cache
+Z:\repos\Cursus\CsharpDeel2\OOP\Assignment_ BankManager\Assignment_ BankManager\Assignment_ BankManager\obj\Debug\net6.0\ref\Assignment_ BankManager.dll
