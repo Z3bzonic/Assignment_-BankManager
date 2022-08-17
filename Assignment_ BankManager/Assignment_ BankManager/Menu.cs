@@ -10,7 +10,27 @@ namespace Assignment__BankManager
             _func = func;
         }
 
-        Account acc1 = new Account("Joris Jonckers", 556644446645, 40.65M, Accountstate.Geldig);
+        List<Account> Accounts = new();
+        readonly Account instance = new();
+        public List<Account> GetAll()
+        {
+            return Accounts;
+        }
+
+        public Account Add(Account instance)
+        {
+            Accounts.Add(instance);
+            instance.Id = Accounts.Count;
+            return instance;
+        }
+
+        public void AddAccount()
+        {
+            Account client = Accounts.Add();
+        }
+
+        instance.Add("Joris Jonckers", 556644446645, 40.65M, Accountstate.Geldig);
+        Account new Account("Joris Jonckers", 556644446645, 40.65M, Accountstate.Geldig);
         Account acc2 = new Account("Ylana Devroes", 556698456512, 20.24M, Accountstate.Geldig);
         Account acc3 = new Account("Maria Koekelberghs", 556691457356, 1542.3245M, Accountstate.Geldig);
         Account acc4 = new Account("Gerard Poets", 512945632132, 98532.4566M, Accountstate.Geldig);
@@ -19,6 +39,8 @@ namespace Assignment__BankManager
         Account acc7 = new Account("Odrey Cudo", 131365478984, 25358.2676M, Accountstate.Geblokkeerd);
 
 
+        Account[] arrayOfAccounts = new Account[1] { acc1, };
+        
         public int LoadCustomer()
         {
             Console.WriteLine("Load the customer 1 to 7             EXIT = 9");
